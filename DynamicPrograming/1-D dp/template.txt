@@ -1,0 +1,14 @@
+import sys
+sys.stdout = open('DynamicPrograming/output.txt', 'w')
+sys.stdin = open('DynamicPrograming/input.txt', 'r')
+
+
+"""Question"""
+
+"""Recursive Solution"""
+
+"""Memorization"""
+
+"""Tebulation"""
+
+if __name__=="__main__":
